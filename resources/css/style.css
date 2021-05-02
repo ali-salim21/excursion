@@ -32,9 +32,8 @@ a{
     color: aquamarine;
 }
 
-footer {
+#footer {
     text-align: right;
-    color: grey;
 }
 
 #pic {
